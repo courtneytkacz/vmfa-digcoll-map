@@ -1,4 +1,4 @@
-# bcdams-map
-Metadata Application Profile for the University of Houston Library's Bayou City DAMS
+# vmfa-digcoll-map
+Metadata Application Profile for the Virginia Museum of Fine Arts digital collections.
 
-https://uhlibraries-digital.github.io/bcdams-map/
+https://github.com/courtneytkacz/vmfa-digcoll-map
