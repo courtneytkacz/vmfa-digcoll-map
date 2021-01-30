@@ -34,6 +34,10 @@ description:
     input: "multi"
     visible: true
     editable: true
+aspace:
+    input: "single"
+    visible: true
+    editable: true
 subject:
     input: "single"
     visible: true

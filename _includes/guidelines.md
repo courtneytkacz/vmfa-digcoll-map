@@ -6,6 +6,8 @@ __URI:__ <{{ site.url }}#{{ element.name }}>
 
 __Definition:__ {{ element.definition }}
 
+__ArchivesSpace:__ {{ element.aspace }}
+
 {% if element.same_as_uri %}__Same As:__ <{{ element.same_as_uri }}>
 
 {% endif %}__Obligation:__ {% include obligation_label.md %}

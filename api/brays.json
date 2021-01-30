@@ -11,6 +11,7 @@ layout: nil
 		"namespace": "{{ element.namespace }}",
 		"name": "{{ element.name }}",
 		"definition": "{{ element.definition }}",
+		"aspace": "{{ element.aspace }}",
 		"uri": "{{ site.url }}#{{ element.name }}",
 		"guidelines": "{{ site.url }}/guidelines/{{ element.name }}",
 		{% if element.source %}"source": "{{ element.source }}",{% endif %}
