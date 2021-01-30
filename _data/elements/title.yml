@@ -5,7 +5,7 @@ definition: "A name given to the resource."
 source: "http://purl.org/dc/terms/title"
 obligation: "required"
 type: "descriptive"
-aspace_field: "<did><unitititle>"
+aspace: "<did><unitititle>"
 repeatable: false
 range:
   - label: "String"
