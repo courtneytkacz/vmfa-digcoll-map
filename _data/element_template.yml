@@ -5,6 +5,7 @@ definition: ""
 source: ""
 obligation: ""
 type: ""
+aspace field: ""
 repeatable: true/false
 range:
   - label: ""
