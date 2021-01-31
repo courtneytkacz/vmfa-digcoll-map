@@ -27,8 +27,8 @@ body {
  * Navbar
  */
 .navbar-default {
-  background-color: #fa903e;
-  border-color: #fa903e;
+  background-color: #c8102e;
+  border-color: #CC102F;
 }
 .navbar-default .navbar-brand {
   color: #f0e6b1;
@@ -51,8 +51,8 @@ body {
  * Footer
  */
 .footer {
-  background-color: #fa903e;
-  border-color: #fa903e;
+  background-color: #c8102e;
+  border-color: #CC102F;
 }
 .footer .footerBox > p > a {
   color: #777;
