@@ -34,7 +34,7 @@ description:
     input: "multi"
     visible: true
     editable: true
-aspace:
+aSpaceField:
     input: "single"
     visible: true
     editable: true

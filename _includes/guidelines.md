@@ -6,7 +6,7 @@ __URI:__ <{{ site.url }}#{{ element.name }}>
 
 __Definition:__ {{ element.definition }}
 
-__ArchivesSpace:__ {{ element.aspace }}
+__ArchivesSpace Field:__ {{ element.aspace }}
 
 {% if element.same_as_uri %}__Same As:__ <{{ element.same_as_uri }}>
 
