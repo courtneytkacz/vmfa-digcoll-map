@@ -10,7 +10,7 @@ __ArchivesSpace Field:__ {{ element.aspace }}
 
 {% if element.same_as_uri %}__Same As:__ <{{ element.same_as_uri }}>
 
-{% endif %}__Obligation:__ {% include obligation_label.md %}
+{% endif %}__DPLA Obligation:__ {% include obligation_label.md %}
 
 __Repeatable:__ {% if element.repeatable == true %}True{% else %}False{% endif %}
 
