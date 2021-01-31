@@ -48,6 +48,12 @@
 	<td>{% include obligation_label.md %}</td>
 </tr>
 <tr>
+	<td><b>Repeatable</b></td>
+	<td>
+	{% if element.repeatable == true %}True{% else %}False{% endif %}
+	</td>
+</tr>
+<tr>
 	<td><b>Range</b></td>
 	<td>
 	{% for r in element.range %}
