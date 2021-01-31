@@ -63,7 +63,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
 paginate: 5
-theme: jekyll-theme-minimal
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
